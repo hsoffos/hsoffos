@@ -1,5 +1,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=hsoffos&label=Visitors&style=for-the-badge)
 
+![Metrics](/github-metrics.svg)
+
 
 - 👋 Hi, I’m @hsoffos
 - 👀 I’m interested in software & data engineering
