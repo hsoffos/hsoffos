@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![Visitors](https://komarev.com/ghpvc/?username=hsoffos&label=Visitors)
 
 - 👋 Hi, I’m @hsoffos
 - 👀 I’m interested in software & data engineering
