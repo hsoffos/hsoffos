@@ -52,6 +52,8 @@
 ### &emsp;&emsp;MSCS  &nbsp;- Master of Science in Computer Science & Software Engineering  
 ### &emsp;&emsp;MBA   &nbsp;&nbsp;&nbsp;- Master of Business Administrtion: Data Analytics and BI Management
 ### &emsp;&emsp;BSME  &nbsp;- Bachelor of Science in Mechanical Engineering  
+#### &emsp;&ensp;&emsp;PMP  &nbsp;- Project Management Professional
+#### &emsp;&ensp;&emsp;CSM  &nbsp;- Certified Scrum Master  
 
 <pre></pre>
 #### please include a detailed description when scheduling with me!
