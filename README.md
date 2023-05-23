@@ -9,10 +9,9 @@
   <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar" width="50%">
 </picture>
 
-- 👋 Hi, I’m @hsoffos
-- 👀 I’m interested in software & data engineering
-- 🌱 I’m currently honing my skills in Full Stack Software Engineering (working on my own algorithmic trading application + web forum)
-- 💞️ I’m looking to collaborate on: Algorithmic Trading (Data Engineering & Processing) & Front End Development
+- 👋 Hi, I’m Hunter Soffos
+- I’m interested in software & data engineering, with a particular interest in AIML development.
+- I’m looking to collaborate on: Algorithmic Trading (Data Engineering & Processing) & Front End Development
 - 📫 How to reach me LinkedIn, in/huntersoffos
 
 - Credentials :  
