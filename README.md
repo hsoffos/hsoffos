@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hsoffos&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hsoffos.hsoffos&left_color=green&right_color=red)
 
 - 👋 Hi, I’m @hsoffos
 - 👀 I’m interested in software & data engineering
