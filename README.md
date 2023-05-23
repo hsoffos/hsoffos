@@ -26,11 +26,11 @@
 ![](https://img.shields.io/badge/Multicompute-Spark-informational?style=flat&logo=apachespark&logoColor=white&color=b9c0ea)
 ![](https://img.shields.io/badge/Multicompute-Hive-informational?style=flat&logo=apachehive&logoColor=white&color=b9c0ea)
 
-![](https://img.shields.io/badge/AIML-mlflow-informational?style=flat&logo=mlflow&logoColor=white&color=f0725c)
-![](https://img.shields.io/badge/AIML-tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=f0725c)
-![](https://img.shields.io/badge/AIML-apachespark-informational?style=flat&logo=apachespark&logoColor=white&color=f0725c)
-![](https://img.shields.io/badge/AIML-scikitlearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=f0725c)
-![](https://img.shields.io/badge/AIML-pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=f0725c)
+![](https://img.shields.io/badge/AIML-MLFlow-informational?style=flat&logo=mlflow&logoColor=white&color=f0725c)
+![](https://img.shields.io/badge/AIML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=f0725c)
+![](https://img.shields.io/badge/AIML-Spark-informational?style=flat&logo=apachespark&logoColor=white&color=f0725c)
+![](https://img.shields.io/badge/AIML-SK--Learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=f0725c)
+![](https://img.shields.io/badge/AIML-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=f0725c)
 
 ![](https://img.shields.io/badge/Platform-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=f6ac5a)
 ![](https://img.shields.io/badge/Platform-At--Home&nbsp;Data&nbsp;Lab-informational?style=flat&logo=&logoColor=white&color=f6ac5a)
