@@ -1,4 +1,4 @@
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME.YOUR_REPOSITORY&left_color=green&right_color=red)](https://github.com/hsoffos/hsoffos)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hsoffos.hsoffos&left_color=green&right_color=red)](https://github.com/hsoffos/hsoffos)
 
 - 👋 Hi, I’m @hsoffos
 - 👀 I’m interested in software & data engineering
