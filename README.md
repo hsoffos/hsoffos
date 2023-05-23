@@ -41,7 +41,7 @@
 
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I’m Hunter Soffos, and I'm an experienced, many-disciplined Engineer.
 - I have an extreme knack for automation, and a habit of identifying problems and impediments many months in advance.
-- Currently flourishing in software & data engineering at Wells Fargo, executing on highly interesting, high-value AIML projects.
+- Currently flourishing in data & AI engineering at Wells Fargo, executing on highly interesting, high-value AIML projects.
 - I really love building things, solving problems, and overcoming new challenges.
 - I’m looking to collaborate on: Algorithmic Trading (Data Engineering & Processing) & Full Stack Development
 - Really, if you have a compelling AI project, I'd love to hear about it!
