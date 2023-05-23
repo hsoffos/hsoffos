@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 - 👋 Hi, I’m @hsoffos
 - 👀 I’m interested in software & data engineering
 - 🌱 I’m currently honing my skills in Full Stack Software Engineering (working on my own algorithmic trading application + web forum)
