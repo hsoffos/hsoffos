@@ -37,28 +37,28 @@
 
 
 
-## here's some info about me! schedule with me on calendly to chat!
+## here's some info about me! schedule with me on calendly below to chat!
 
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I’m Hunter Soffos, and I'm an experienced, many-disciplined Engineer.
 - I have an extreme knack for automation, and a habit of identifying problems and impediments many months in advance.
-- I’m currently flourishing in software & data engineering at Wells Fargo, executing on highly interesting, high-value AIML projects.
+- Currently flourishing in software & data engineering at Wells Fargo, executing on highly interesting, high-value AIML projects.
 - I really love building things, solving problems, and overcoming new challenges.
 - I’m looking to collaborate on: Algorithmic Trading (Data Engineering & Processing) & Full Stack Development
 - Really, if you have a compelling AI project, I'd love to hear about it!
 
 
-### please include a detailed description when scheduling with me!
+### here are some of my credentials:
+
+### &emsp;&emsp;MSCS  &nbsp;- Master of Science in Computer Science & Software Engineering  
+### &emsp;&emsp;MBA   &nbsp;&nbsp;&nbsp;- Master of Business Administrtion: Data Analytics and BI Management
+### &emsp;&emsp;BSME  &nbsp;- Bachelor of Science in Mechanical Engineering  
+
+
+#### please include a detailed description when scheduling with me!
 
 <a href="https://calendly.com/huntersoffos/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 
-
-### here are some of my credentials
-
-&emsp;&emsp;MSCS  &nbsp;- Master of Science in Computer Science   
-&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;Concentration: Software Engineering  
-&emsp;&emsp;MBA   &nbsp;&nbsp;&nbsp;- Master of Business Administrtion: Data Analytics and BIM  
-&emsp;&emsp;BSME  &nbsp;- Bachelor of Science in Mechanical Engineering  
 
 ### check out some high level metrics
 
