@@ -53,7 +53,7 @@
 ### &emsp;&emsp;MBA   &nbsp;&nbsp;&nbsp;- Master of Business Administrtion: Data Analytics and BI Management
 ### &emsp;&emsp;BSME  &nbsp;- Bachelor of Science in Mechanical Engineering  
 
-
+<pre></pre>
 #### please include a detailed description when scheduling with me!
 
 <a href="https://calendly.com/huntersoffos/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
