@@ -1,4 +1,4 @@
-# welcome to my page! &emsp;&emsp;&emsp;[![Linkedin: huntersoffos](https://img.shields.io/badge/-huntersoffos-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huntersoffos/)](https://www.linkedin.com/in/huntersoffos/) &emsp;&emsp;&emsp; ![Visitors](https://komarev.com/ghpvc/?username=hsoffos&label=Visitors&style=for-the-badge)
+# welcome to my page! &emsp;&emsp;&emsp;[![Linkedin: huntersoffos](https://img.shields.io/badge/-huntersoffos-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huntersoffos/)](https://www.linkedin.com/in/huntersoffos/) &emsp;&emsp;&emsp; 
 
 
 
