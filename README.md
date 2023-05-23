@@ -1,4 +1,4 @@
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=hsoffos.hsoffos)](https://github.com/hsoffos/hsoffos)
+<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
 
 - 👋 Hi, I’m @hsoffos
 - 👀 I’m interested in software & data engineering
