@@ -4,6 +4,11 @@
   <img src="/github-metrics.svg" alt="Metrics" width="50%">
 </picture>
 
+
+<picture>
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar" width="50%">
+</picture>
+
 - 👋 Hi, I’m @hsoffos
 - 👀 I’m interested in software & data engineering
 - 🌱 I’m currently honing my skills in Full Stack Software Engineering (working on my own algorithmic trading application + web forum)
