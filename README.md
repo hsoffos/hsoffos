@@ -5,12 +5,15 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Excel-informational?style=flat&logo=microsoftexcel&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6eb5ff)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6eb5ff)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6eb5ff)
 ![](https://img.shields.io/badge/Shell-PS-informational?style=flat&logo=powershell&logoColor=white&color=6eb5ff)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6eb5ff)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=ansi&logoColor=white&color=6eb5ff)
+![](https://img.shields.io/badge/Code-VBA-informational?style=flat&logo=vba&logoColor=white&color=6eb5ff)
 
 ![](https://img.shields.io/badge/DB-Teradata-informational?style=flat&logo=teradata&logoColor=white&color=fff5ba)
 ![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=fff5ba)
@@ -29,6 +32,8 @@
 ![](https://img.shields.io/badge/AIML-scikitlearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=f0725c)
 ![](https://img.shields.io/badge/AIML-pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=f0725c)
 
+![](https://img.shields.io/badge/Platform-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=f6ac5a)
+![](https://img.shields.io/badge/Platform-At--Home&nbsp;Data&nbsp;Lab-informational?style=flat&logo=&logoColor=white&color=f6ac5a)
 
 
 
