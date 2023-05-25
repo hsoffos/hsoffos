@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/Shell-PS-informational?style=flat&logo=powershell&logoColor=white&color=6eb5ff)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6eb5ff)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=ansi&logoColor=white&color=6eb5ff)
+![](https://img.shields.io/badge/Code-SAS-informational?style=flat&logo=vba&logoColor=white&color=6eb5ff)
 ![](https://img.shields.io/badge/Code-VBA-informational?style=flat&logo=vba&logoColor=white&color=6eb5ff)
 
 ![](https://img.shields.io/badge/DB-Teradata-informational?style=flat&logo=teradata&logoColor=white&color=fff5ba)
@@ -33,7 +34,8 @@
 ![](https://img.shields.io/badge/AIML-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=f0725c)
 
 ![](https://img.shields.io/badge/Platform-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=f6ac5a)
-![](https://img.shields.io/badge/Platform-At--Home&nbsp;Data&nbsp;Lab-informational?style=flat&logo=&logoColor=white&color=f6ac5a)
+![](https://img.shields.io/badge/Platform-SAS_Grid-informational?style=flat&logo=googlecloud&logoColor=white&color=f6ac5a)
+![](https://img.shields.io/badge/Platform-At--Home_Data_Lab-informational?style=flat&logo=&logoColor=white&color=f6ac5a)
 
 
 
@@ -43,8 +45,8 @@
 - I have an extreme knack for automation, and a habit of identifying problems and impediments many months in advance.
 - Currently flourishing in data & AI engineering at Wells Fargo, planning and executing my own interesting, high-value AIML projects.
 - I really love building things, solving problems, and overcoming new challenges.
-- I’m interested in collaborating on: 
-      - Algorithmic Trading (Data Engineering & Processing)
+- I’m interested in collaborating on: <br/>
+      - Algorithmic Stock, Commodities, ForEx, and Futures Trading (Data Engineering & Processing). <br/>
       - Full Stack Development (Exposing data to clients, allowing clients to build models with my packages).
 - If you have a compelling AI project, I'd love to hear about it!
 
