@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/SparkML-2_years-informational?style=flat&logo=apachespark&logoColor=white&color=f0725c)
 ![](https://img.shields.io/badge/SK--Learn-2_years-informational?style=flat&logo=scikitlearn&logoColor=white&color=f0725c)
 ![](https://img.shields.io/badge/MLFlow-2_years-informational?style=flat&logo=mlflow&logoColor=white&color=f0725c)
-![](https://img.shields.io/badge/Pytorch-2_years-informational?style=flat&logo=pytorch&logoColor=white&color=f0725c)
+![](https://img.shields.io/badge/Pytorch-1_year-informational?style=flat&logo=pytorch&logoColor=white&color=f0725c)
 ![](https://img.shields.io/badge/TensorFlow-<_1_year-informational?style=flat&logo=tensorflow&logoColor=white&color=f0725c)
 
 ![](https://img.shields.io/badge/Proxmox-1_year-informational?style=flat&logo=proxmox&logoColor=white&color=f6ac5a)
