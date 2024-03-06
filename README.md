@@ -1,6 +1,6 @@
 ## About me
 
-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" /> Hi, I’m Hunter Soffos! I've worked a range of engineering jobs, from physical to software.
+- Hi, I’m Hunter Soffos! I've worked a range of engineering jobs, from physical to software.
 - My passions lie in software, finance, and data!
 - Most of my experience lies in intelligent automation, AIML, and engineering backend systems from data pipelines to schedulers.
 - Currently working in Data & AI engineering at Wells Fargo, planning and executing high-value AIML projects within the COO.
