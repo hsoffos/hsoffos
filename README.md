@@ -59,6 +59,9 @@
 #### &emsp;&ensp;&emsp;PMP  &nbsp;- Project Management Professional
 #### &emsp;&ensp;&emsp;CSM  &nbsp;- Certified Scrum Master 
 
+<br/>
+<br/>
+
 <p align="center">
   <img src="metrics.plugin.isocalendar.fullyear.svg" alt="My Isometric Commit Calendar" width="100%">
 </p>
