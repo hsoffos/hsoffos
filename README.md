@@ -31,17 +31,26 @@
 
 
 - My passions lie in financial and healthcare technology and applied AI/ML engineering!
-  - I've led the development of multiple successful, large-scale, user-facing products from concept to production deployment and maintenance.
-  - Some fully automated products I've built:
-    - Customer Complaints Analysis, Routing, and Handling
-      - Positive regulatory impact
-    - Insurance Analysis
-      - Reliable, customizable, high-speed analysis of insurance documentation.
-    - Slack chatbot
-      - Quickly search / distill documentation based on user questioning
+  - I've led the development of multiple successful, large-scale, user-facing products from concept to production deployment and maintenance. 
 
 
-- Currently working in Data / Software Engineering at CapitalOne.
+### Some fully automated products I've built
+
+  - Customer Complaints Analysis, Routing, and Handling
+    - Significant reduction in workforce requirement
+    - Improved regulatory standing
+
+  - Insurance Analysis
+    - Reliable, customizable, high-speed analysis of insurance documentation.
+
+  - Slack chatbot
+    - Quickly search / distill documentation based on user questioning
+
+
+### I'm currently working at:
+    Capital One
+
+    Note: This account is not affiliated with Capital One
 
 ### I’m interested in collaborating on:
     Algorithmic Stock, Commodities, ForEx, and Futures Trading.
