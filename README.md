@@ -63,5 +63,5 @@
 <br/>
 
 <p align="center">
-  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="My Isometric Commit Calendar" width="100%">
+  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="My Isometric Commit Calendar" width="80%">
 </p>
