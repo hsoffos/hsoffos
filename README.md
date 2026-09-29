@@ -34,7 +34,7 @@
   - I've led the development of multiple successful, large-scale, user-facing products from concept to production deployment and maintenance. 
 
 
-### Some fully automated products I've built
+### Some fully automated, agentic products I've built
 
   - Customer Complaints Analysis, Routing, and Handling
     - Significant reduction in workforce requirement
@@ -43,14 +43,14 @@
   - Insurance Analysis
     - Reliable, customizable, high-speed analysis of insurance documentation.
 
-  - Slack chatbot
+  - Slack chatbots
     - Quickly search / distill documentation based on user questioning
 
 
 ### I'm currently working at:
-    Capital One
+    Warner Bros Discovery
 
-    Note: This account is not affiliated with Capital One
+    Note: This account is not affiliated with Warner Bros Discovery
 
 ### I’m interested in collaborating on:
     Algorithmic Stock, Commodities, ForEx, and Futures Trading.
